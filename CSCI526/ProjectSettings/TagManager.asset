@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - PowerUp
+  - Enemy
   - 
   - 
   - 
@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1288402143
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Powerups
+    uniqueID: 1894644541
+    locked: 0
+  - name: Player
+    uniqueID: 3552229057
+    locked: 0
+  - name: Pipes
+    uniqueID: 833538753
+    locked: 0
+  - name: Blocks
+    uniqueID: 876580181
     locked: 0
