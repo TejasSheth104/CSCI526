@@ -7,4 +7,4 @@ A 2D-platformer game where you switch the color of yourself to obtain the abilit
 
 ## Team - </br>
 Chengyu Lu - luchengy@usc.edu </br>
-Tejas Sheth - tejasshe@usc.ed)
+Tejas Sheth - tejasshe@usc.ed
